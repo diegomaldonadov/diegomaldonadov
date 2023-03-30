@@ -16,7 +16,7 @@ const About = () => {
   });
   return (
     <section className="section" id="about" ref={ref}>
-      <div className="container mx-auto">
+      <div className="min-h-[105vh] container mx-auto">
         <div className="flex flex-col gap-y-10 lg:flex-row lg:items-center lg:gap-x-20 lg:gap-y-0 h-screen">
           {/* img */}
           <motion.div
@@ -64,7 +64,7 @@ const About = () => {
                 Experience
               </div>
             </div>
-            <div className="flex gap-x-8 items-center">
+            <div className="flex gap-x-8 items-center mb-12">
                 <Link
                   to="contact"
                   activeClass="active"

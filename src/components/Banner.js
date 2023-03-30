@@ -26,7 +26,7 @@ import { Link } from "react-scroll";
 const Banner = () => {
   return (
     <section
-      className="min-h-[85vh] lg:min-h-[75vh] flex items-center"
+      className="min-h-[100vh] lg:min-h-[75vh] flex items-center"
       id="home"
     >
       <div className="container mx-auto">
@@ -145,7 +145,7 @@ const Banner = () => {
             className="mx-auto flex-wrap items-center"
           >
             <img
-              className="lg:max-w-[482px] sm:max-w-[200px] mx-8 "
+              className="lg:max-w-[300px] sm:max-w-[200px] mx-8"
               src={Image}
               alt=""
             />

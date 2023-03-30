@@ -100,7 +100,7 @@ const Work = () => {
                   transition-all duration-500 z-50 mb-5"
               >
                 <span className="text-gradient">
-                  To Do List - Vanilla JavaScript
+                  ToDo List - Vanilla JavaScript
                 </span>
               </div>
               {/* title */}
@@ -118,7 +118,7 @@ const Work = () => {
               </div>
             </div>
             <div
-              className=" group relative overflow-hidden border-2 
+              className="group relative overflow-hidden border-2 
                 border-white/50 rounded-xl"
             >
               {/* overlay */}
