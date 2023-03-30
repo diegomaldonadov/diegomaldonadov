@@ -1,6 +1,6 @@
 import React from "react";
 // images
-import Image from "../assets/avatar1.svg";
+import Image from "../assets/avatar1.png";
 // icons
 import {
   FaCss3,

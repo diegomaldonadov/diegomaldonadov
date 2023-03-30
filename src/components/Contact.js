@@ -98,7 +98,7 @@ const Contact = () => {
               name="message"
               required
             ></textarea>
-            <input type="submit" className="btn btn-lg" value="SEND" />
+            <input type="submit" className="btn btn-sm" value="SEND" />
           </motion.form>
         </div>
       </div>
