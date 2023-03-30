@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/diegomaldonadov.github.io/diegomaldonadov/static/css/main.8ef17569.css",
-    "main.js": "/diegomaldonadov.github.io/diegomaldonadov/static/js/main.bf32cceb.js",
-    "static/media/portfolio-img1.png": "/diegomaldonadov.github.io/diegomaldonadov/static/media/portfolio-img1.65b23e5c313b18600f24.png",
-    "static/media/site-bg1.png": "/diegomaldonadov.github.io/diegomaldonadov/static/media/site-bg1.a4c6552dff42ea203a1a.png",
-    "static/media/about.png": "/diegomaldonadov.github.io/diegomaldonadov/static/media/about.2cd78c585cd40e1d60a3.png",
-    "static/media/avatar1.png": "/diegomaldonadov.github.io/diegomaldonadov/static/media/avatar1.b1544fc1c52bb2a7aed7.png",
-    "static/media/services1.png": "/diegomaldonadov.github.io/diegomaldonadov/static/media/services1.cb4d25e138b10cb7d276.png",
-    "static/media/portfolio-img21.png": "/diegomaldonadov.github.io/diegomaldonadov/static/media/portfolio-img21.5871eb4dc615593230f2.png",
-    "static/media/portfolio-img31.png": "/diegomaldonadov.github.io/diegomaldonadov/static/media/portfolio-img31.c636c7ffd7fd9805ac89.png",
-    "static/media/logo.svg": "/diegomaldonadov.github.io/diegomaldonadov/static/media/logo.031e6216593b14a2417cce117f7d6609.svg",
-    "index.html": "/diegomaldonadov.github.io/diegomaldonadov/index.html",
-    "main.8ef17569.css.map": "/diegomaldonadov.github.io/diegomaldonadov/static/css/main.8ef17569.css.map",
-    "main.bf32cceb.js.map": "/diegomaldonadov.github.io/diegomaldonadov/static/js/main.bf32cceb.js.map"
+    "main.css": "/diegomaldonadov/static/css/main.c9845c59.css",
+    "main.js": "/diegomaldonadov/static/js/main.255a11ec.js",
+    "static/media/portfolio-img1.png": "/diegomaldonadov/static/media/portfolio-img1.65b23e5c313b18600f24.png",
+    "static/media/site-bg1.png": "/diegomaldonadov/static/media/site-bg1.a4c6552dff42ea203a1a.png",
+    "static/media/about.png": "/diegomaldonadov/static/media/about.2cd78c585cd40e1d60a3.png",
+    "static/media/avatar1.png": "/diegomaldonadov/static/media/avatar1.b1544fc1c52bb2a7aed7.png",
+    "static/media/services1.png": "/diegomaldonadov/static/media/services1.cb4d25e138b10cb7d276.png",
+    "static/media/portfolio-img21.png": "/diegomaldonadov/static/media/portfolio-img21.5871eb4dc615593230f2.png",
+    "static/media/portfolio-img31.png": "/diegomaldonadov/static/media/portfolio-img31.c636c7ffd7fd9805ac89.png",
+    "static/media/logo.svg": "/diegomaldonadov/static/media/logo.031e6216593b14a2417cce117f7d6609.svg",
+    "index.html": "/diegomaldonadov/index.html",
+    "main.c9845c59.css.map": "/diegomaldonadov/static/css/main.c9845c59.css.map",
+    "main.255a11ec.js.map": "/diegomaldonadov/static/js/main.255a11ec.js.map"
   },
   "entrypoints": [
-    "static/css/main.8ef17569.css",
-    "static/js/main.bf32cceb.js"
+    "static/css/main.c9845c59.css",
+    "static/js/main.255a11ec.js"
   ]
 }
