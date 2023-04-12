@@ -7,6 +7,7 @@ import { fadeIn } from "../variants";
 import Img1 from "../assets/portfolio-img1.png";
 import Img2 from "../assets/portfolio-img21.png";
 import Img3 from "../assets/portfolio-img31.png";
+import Img4 from "../assets/portfolio-img4.png";
 
 const Work = () => {
   return (
@@ -69,6 +70,42 @@ const Work = () => {
                 transition-all duration-700 z-50"
               >
                 <span className="text-gradient">Portfolio</span>
+              </div>
+            </div>
+            <div
+              className=" group relative overflow-hidden border-2 
+              border-white/50 rounded-xl"
+            >
+              {/* overlay */}
+              <div
+                className="group-hover:bg-black/70 w-full h-full absolute 
+                z-40 transition-all duration-300"
+              ></div>
+              {/* img */}
+              <img
+                className="group-hover:scale-125 transition-all duration-500"
+                src={Img4}
+                alt=""
+              ></img>
+              {/* pretitle */}
+              <div
+                className="absolute -bottom-full left-12 group-hover:bottom-24 
+                transition-all duration-500 z-50 mb-5"
+              >
+                <span className="text-gradient">Sticky Notes App - React.JS</span>
+              </div>
+              {/* title */}
+              <div
+                className="absolute -bottom-full left-12 group-hover:bottom-14 
+                transition-all duration-700 z-50"
+              >
+                <a
+                  href="https://diegomaldonadov.github.io/StickyNotesApp/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  <button className="btn btn-sm">View live demo</button>
+                </a>
               </div>
             </div>
           </motion.div>

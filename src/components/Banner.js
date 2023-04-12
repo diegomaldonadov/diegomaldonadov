@@ -98,7 +98,7 @@ const Banner = () => {
               </Link>
 
               <a
-                href="https://drive.google.com/file/d/1TzG9IVNT47J_7aTGpB9SWli4CU2Yz0xy/view?usp=sharing"
+                href="https://drive.google.com/file/d/1Pfu2-719zFh9CT2rzl95_WHbbod8VRP1/view?usp=sharing"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gradient btn-link"
