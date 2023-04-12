@@ -1,7 +1,8 @@
 {
   "files": {
     "main.css": "/diegomaldonadov/static/css/main.23fe70fd.css",
-    "main.js": "/diegomaldonadov/static/js/main.d059b066.js",
+    "main.js": "/diegomaldonadov/static/js/main.3f4baa83.js",
+    "static/media/portfolio-img4.png": "/diegomaldonadov/static/media/portfolio-img4.005c8fb492da247e4fe1.png",
     "static/media/portfolio-img1.png": "/diegomaldonadov/static/media/portfolio-img1.65b23e5c313b18600f24.png",
     "static/media/site-bg1.png": "/diegomaldonadov/static/media/site-bg1.a4c6552dff42ea203a1a.png",
     "static/media/about.png": "/diegomaldonadov/static/media/about.2cd78c585cd40e1d60a3.png",
@@ -12,10 +13,10 @@
     "static/media/logo.svg": "/diegomaldonadov/static/media/logo.031e6216593b14a2417cce117f7d6609.svg",
     "index.html": "/diegomaldonadov/index.html",
     "main.23fe70fd.css.map": "/diegomaldonadov/static/css/main.23fe70fd.css.map",
-    "main.d059b066.js.map": "/diegomaldonadov/static/js/main.d059b066.js.map"
+    "main.3f4baa83.js.map": "/diegomaldonadov/static/js/main.3f4baa83.js.map"
   },
   "entrypoints": [
     "static/css/main.23fe70fd.css",
-    "static/js/main.d059b066.js"
+    "static/js/main.3f4baa83.js"
   ]
 }
