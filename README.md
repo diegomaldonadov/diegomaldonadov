@@ -2,10 +2,10 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 &nbsp; Tech enthusiast for new technologies and developing software solutions.
 - 💼 &nbsp; Working as a Front-End Developer.
 - 🌱 &nbsp; Growing my Front-End skills but working on my portfolio, learning new libraries and passionate on my self development.
-- ✍️ &nbsp; Running as hobbies/side hustles.
+- 🏃🏻‍♂️ &nbsp; Running as hobbies/side hustles.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
