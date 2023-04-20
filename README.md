@@ -37,10 +37,3 @@
 
 <br/>
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
-
-<p align="center">
-<a href="https://diegomaldonadov.github.io/diegomaldonadov/"><img alt="Website"></a>
-<a href="https://www.linkedin.com/in/diegomaldonadov/"><img alt="LinkedIn"></a>
-<a href="mailto:diegoomaldonado95“gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-"></a>
-</p>
