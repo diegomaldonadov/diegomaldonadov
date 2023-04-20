@@ -3,10 +3,9 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
-- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+- 💼 &nbsp; Working as a Front-End Developer.
+- 🌱 &nbsp; Growing my Front-End skills but working on my portfolio, learning new libraries and passionate on my self development.
+- ✍️ &nbsp; Running as hobbies/side hustles.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
