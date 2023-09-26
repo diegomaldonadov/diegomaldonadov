@@ -29,10 +29,5 @@
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 <br/>
 
-<a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegomaldonadov&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegomaldonadov&theme=buefy&layout=compact" />
-</a>
-
 <br/>
 
